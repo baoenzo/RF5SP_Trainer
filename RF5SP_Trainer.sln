@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RF5SP_Trainer", "RF5SP_Trainer\RF5SP_Trainer.csproj", "{0C945065-E1DE-42AE-965C-60C0913FDB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C945065-E1DE-42AE-965C-60C0913FDB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C945065-E1DE-42AE-965C-60C0913FDB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C945065-E1DE-42AE-965C-60C0913FDB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C945065-E1DE-42AE-965C-60C0913FDB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E810E4-CB49-47FB-AC85-C29333EE0842}
+	EndGlobalSection
+EndGlobal
